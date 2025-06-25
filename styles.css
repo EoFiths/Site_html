@@ -1,4 +1,9 @@
-body{
-    color: black;
-    background: black;
+header{
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(red, green, blue);
+}
+
+section{
+    background: rgb(red, green, blue);
 }
