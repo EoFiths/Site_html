@@ -1,1 +1,4 @@
-# 
+Como montar um pc
+#pc
+
+<iframe width="1323" height="744" src="https://www.youtube.com/embed/UURtjMluM6w" title="COMO MONTAR UM PC GAMER (COMPUTADOR) PASSO A PASSO 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
